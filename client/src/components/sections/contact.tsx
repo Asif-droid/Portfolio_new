@@ -151,7 +151,7 @@ const Contact = () => {
           </div>
           
           {/* Contact Form */}
-          <Card className="bg-slate-50 dark:bg-slate-800">
+          {/* <Card className="bg-slate-50 dark:bg-slate-800">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold mb-6 text-slate-900 dark:text-slate-100">Send a Message</h3>
               <form onSubmit={handleSubmit} className="space-y-6">
@@ -216,7 +216,7 @@ const Contact = () => {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </div>
     </section>

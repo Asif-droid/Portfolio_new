@@ -11,10 +11,17 @@ const Hero = () => {
         <div className="animate-fade-in">
           {/* Professional avatar placeholder */}
           <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center animate-float">
-            <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center">
-              <span className="text-white text-2xl font-bold">
+            <div className="w-30 h-30 bg-white/20 rounded-full flex items-center justify-center">
+              {/* <span className="text-white text-2xl font-bold">
                 {personal.name.split(' ').map(n => n[0]).join('')}
-              </span>
+              </span> */}
+              <div className="w-30 h-30 bg-white/20 rounded-full flex items-center justify-center">
+                  <img
+                    src='./pro_pic2.jpg'
+                    alt={personal.name}
+                    className="w-full h-full object-cover rounded-full"
+                  />
+              </div>
             </div>
           </div>
           

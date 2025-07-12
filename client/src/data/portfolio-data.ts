@@ -7,8 +7,9 @@ export const portfolioData = {
     location: "Dhaka, Bangladesh",
     linkedin: "https://linkedin.com/in/k-m-asifur-rahman-7035531aa",
     github: "https://github.com/Asif-droid",
-    bio: "Machine learning engineer with over a year of experience developing statistical models and implementing state-of-the-art large language models. Specialized in GenAI, Computer Vision, and NLP with publications in IEEE T-IFS.",
-    summary: "Currently working as a Machine Learning Engineer at Spectrum Software and Consulting, where I develop and deploy cutting-edge AI solutions including GenAI systems, Document AI, and Computer Vision applications. My expertise spans across fine-tuning large language models with LoRA, building RAG-based systems, and developing scalable AI service architectures. I have successfully deployed fine-tuned LLMs locally for trade document intelligence within bank-grade, restricted environments. I'm also pursuing my MSc in Computer Science and Engineering at BUET, focusing on advanced AI research with publications in prestigious journals like IEEE T-IFS."
+    bio: "Machine learning engineer with over a year of experience developing statistical models and implementing state-of-the-art large language models. Specialized in GenAI, Computer Vision, NLP and Cybersecurity.",
+    summary: "Currently working as a Machine Learning Engineer at Spectrum Software and Consulting, where I develop and deploy cutting-edge AI solutions including GenAI systems, Document AI, and Computer Vision applications. My expertise spans across fine-tuning large language models with LoRA, building RAG-based systems, and developing scalable AI service architectures. I have successfully deployed fine-tuned LLMs locally for trade document intelligence within bank-grade, restricted environments. I'm also pursuing my MSc in Computer Science and Engineering at BUET, focusing on advanced AI research and Cybersecurity with publications in prestigious journals like IEEE T-IFS.",
+    avatar: "../data/pro_pic2.jpg"
   },
   
   experience: [
